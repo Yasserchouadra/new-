@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538310080 source:c:\users\user\desktop\programmation\1-c\gestion du texte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538502231 source:c:\users\user\desktop\1-c\gestion du texte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
